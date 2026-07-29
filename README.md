@@ -1,40 +1,64 @@
 # Project SENTRI Research
-The Research repository contains the methodologies, technical analyses, literature reviews, templates, and reference material that support research conducted within Project SENTRI.
-Its purpose is to establish a transparent and consistent research process while providing technical foundations for future publications.
-Unlike the Library, which curates external resources, or Publications, which contains completed written work, this repository focuses on the research process itself.
+
+The Research repository serves as the central workspace for research conducted under **Project SENTRI**.
+It provides the structure, methodologies, and supporting documentation used to investigate topics related to **AI safety**, **AI security**, and **responsible AI**. Research projects are developed as living documents, allowing ideas to evolve through literature review, technical analysis, experimentation, and iterative refinement.
+Completed research may later be adapted into formal publications or technical resources.
+
 ---
 
 ## Repository Structure
-- Literature Reviews
-- Technical Analysis
-- Methodologies
-- References
-- Templates
+
+```
+research/
+│
+├── research/              # Individual research projects
+├── literature-reviews/    # Multi-source literature syntheses
+├── technical-analysis/    # Technical investigations and analyses
+├── methodologies/         # Research standards and workflows
+├── references/            # Shared references and terminology
+└── templates/             # Standardized research templates
+```
+
 ---
 
-## Principles
-Research conducted within Project SENTRI is guided by the following principles:
-- **Evidence** — Claims should be supported by reliable and verifiable sources.
-- **Transparency** — Clearly distinguish facts, interpretation, and opinion.
-- **Technical Accuracy** — Prioritize correctness over simplicity.
-- **Accessibility** — Explain complex ideas without unnecessary jargon.
-- **Continuous Improvement** — Research should evolve alongside advances in AI.
+## Research Areas
+Project SENTRI research may explore topics including, but not limited to:
+- AI Safety
+- AI Security
+- LLM Security
+- AI Alignment
+- Responsible AI
+- AI Governance
+- Model Evaluation
+- AI Risk Assessment
+- AI Agents
+- Emerging AI Technologies
+---
+
+## Research Principles
+Research conducted under Project SENTRI follows several guiding principles:
+- **Evidence-Based** — Conclusions should be supported by credible and verifiable sources.
+- **Technical Accuracy** — Technical correctness takes priority over simplification.
+- **Transparency** — Distinguish clearly between evidence, interpretation, and opinion.
+- **Reproducibility** — Research should be documented in a way that enables others to understand the process and verify findings.
+- **Continuous Improvement** — Research projects remain open to revision as new evidence and developments emerge.
+
 ---
 
 ## Contributing
-Contributions are welcome.
+Contributions are welcome from students, researchers, developers, and members of the wider AI community.
 
-Community members can contribute by:
+Contributors can assist by:
 - improving literature reviews
 - expanding technical analyses
-- refining research methodologies
-- updating references
-- improving templates
+- identifying relevant research
+- refining methodologies
+- suggesting corrections or improvements
 
-Please review the methodology documentation before submitting significant contributions.
+Please review the repository guidelines and methodologies before contributing to active research projects.
 
 ---
 
-Maintained by **Project SENTRI**
+## Maintained by
 
-*Advancing awareness of safe, secure, and responsible AI.*
+**Project SENTRI**
