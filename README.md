@@ -1,41 +1,40 @@
 # Project SENTRI Research
-The Research repository contains original publications developed under Project SENTRI, including research summaries, literature reviews, technical analyses, case studies, and reports.
-Our objective is to improve accessibility to AI safety and AI security research while maintaining technical accuracy and encouraging evidence-based discussion.
-Unlike the Project SENTRI Library, which curates external resources, this repository focuses on original writing and analysis produced by the Project SENTRI community.
+The Research repository contains the methodologies, technical analyses, literature reviews, templates, and reference material that support research conducted within Project SENTRI.
+Its purpose is to establish a transparent and consistent research process while providing technical foundations for future publications.
+Unlike the Library, which curates external resources, or Publications, which contains completed written work, this repository focuses on the research process itself.
 ---
 
 ## Repository Structure
-- Paper Summaries
 - Literature Reviews
 - Technical Analysis
-- Reports
-- Case Studies
-- Surveys
 - Methodologies
 - References
-
+- Templates
 ---
 
-## Editorial Principles
-Project SENTRI research is guided by the following principles:
-- **Accuracy** — Claims should be supported by reliable sources.
-- **Transparency** — Interpretations should be clearly distinguished from factual reporting.
-- **Accessibility** — Technical concepts should be explained without unnecessary complexity.
-- **Neutrality** — Publications aim to inform rather than persuade.
-- **Continuous Improvement** — Documents are reviewed and updated as new research becomes available.
+## Principles
+Research conducted within Project SENTRI is guided by the following principles:
+- **Evidence** — Claims should be supported by reliable and verifiable sources.
+- **Transparency** — Clearly distinguish facts, interpretation, and opinion.
+- **Technical Accuracy** — Prioritize correctness over simplicity.
+- **Accessibility** — Explain complex ideas without unnecessary jargon.
+- **Continuous Improvement** — Research should evolve alongside advances in AI.
 ---
+
 ## Contributing
 Contributions are welcome.
 
-Community members may contribute by:
-- summarizing research papers
-- reviewing publications
-- suggesting corrections
-- improving technical explanations
-- proposing new research topics
+Community members can contribute by:
+- improving literature reviews
+- expanding technical analyses
+- refining research methodologies
+- updating references
+- improving templates
 
-Please review the repository methodology before submitting substantial contributions.
+Please review the methodology documentation before submitting significant contributions.
 
 ---
 
-Maintained by Project SENTRI
+Maintained by **Project SENTRI**
+
+*Advancing awareness of safe, secure, and responsible AI.*
